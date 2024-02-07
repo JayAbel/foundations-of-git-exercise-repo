@@ -13,6 +13,9 @@ Welcome! This is the sandbox repository for the [Foundations of Git](https://lea
 
  5. Success! Refer back to [course lessons](https://learn.gitkraken.com) for exercises. 
 
+## A change on the wrong branch
+This change will have to be stashed so that it can be applied to the correct branch.
+
 
 ## Resetting the repo
 
