@@ -27,3 +27,12 @@ However, to completely reset the repo back to its original state, consider delet
 ## Exercise -- Adding stuff to a branch
 
 This is now on my local development branch
+
+
+## And now test squash
+
+This is another change on the main branch
+
+## add another section for quash
+
+This is even more changey stuff
